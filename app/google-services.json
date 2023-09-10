@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635517039470",
+    "project_id": "learnathome-66026",
+    "storage_bucket": "learnathome-66026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635517039470:android:d34376f66733e228b0477f",
+        "android_client_info": {
+          "package_name": "com.LAT.LearnAtHome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAk4U9MrCZliXKzmdmeOVrJGydPDnGY9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
